@@ -1,0 +1,46 @@
+vacancy
+    title
+    code
+    department optional
+    hiringManager optional
+    openingsCount integer
+    openedDate
+    closingDate optional
+    state
+    description optional
+    unique code
+candidate
+    person
+    source optional
+    resume optional
+    description optional
+candidateApplication
+    vacancy
+    candidate
+    applicationDate
+    state
+    expectedSalary realNumber optional
+    currency optional
+    description optional
+    unique vacancy candidate
+interview
+    candidateApplication
+    interviewDate
+    interviewer
+    location optional
+    score realNumber optional
+    feedback optional
+jobOffer
+    candidateApplication
+    offeredDate
+    expiryDate optional
+    salary realNumber
+    currency
+    state
+    description optional
+hiring
+    candidateApplication
+    employee
+    hiredDate
+    startDate
+    unique candidateApplication
