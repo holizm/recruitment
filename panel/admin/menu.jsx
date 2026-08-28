@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'personAdd',
+        path: '/recruitment',
         title: 'recruitmentRecruitment',
     },
 ]
