@@ -1,0 +1,20 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "applicationDate": "تاریخ درخواست",
+        "applications": "درخواست‌ها",
+        "candidate": "متقاضی",
+        "closingDate": "مهلت درخواست",
+        "code": "کد",
+        "department": "بخش",
+        "description": "توضیحات",
+        "openedDate": "تاریخ انتشار",
+        "openingsCount": "تعداد فرصت‌ها",
+        "recruitment": "استخدام",
+        "state": "مرحله",
+        "vacancies": "فرصت‌های شغلی",
+        "vacancy": "فرصت شغلی"
+    },
+    "site": {}
+}

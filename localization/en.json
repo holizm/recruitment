@@ -1,0 +1,20 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "applicationDate": "Application date",
+        "applications": "Applications",
+        "candidate": "Candidate",
+        "closingDate": "Closing date",
+        "code": "Code",
+        "department": "Department",
+        "description": "Description",
+        "openedDate": "Opened date",
+        "openingsCount": "Number of openings",
+        "recruitment": "Recruitment",
+        "state": "State",
+        "vacancies": "Vacancies",
+        "vacancy": "Vacancy"
+    },
+    "site": {}
+}
