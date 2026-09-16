@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "applicationDate": "Application date",
         "applications": "Applications",
         "candidate": "Candidate",
@@ -15,6 +13,5 @@
         "state": "State",
         "vacancies": "Vacancies",
         "vacancy": "Vacancy"
-    },
-    "site": {}
+    }
 }

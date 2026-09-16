@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "applicationDate": "تاریخ درخواست",
         "applications": "درخواست‌ها",
         "candidate": "متقاضی",
@@ -15,6 +13,5 @@
         "state": "مرحله",
         "vacancies": "فرصت‌های شغلی",
         "vacancy": "فرصت شغلی"
-    },
-    "site": {}
+    }
 }
