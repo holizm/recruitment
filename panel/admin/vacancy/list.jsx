@@ -10,7 +10,7 @@ const headers = <>
     <th>recruitmentCode</th>
     <th>recruitmentDepartment</th>
     <th>recruitmentClosingDate</th>
-    <th>recruitmentState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

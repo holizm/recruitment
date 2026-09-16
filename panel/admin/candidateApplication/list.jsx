@@ -8,7 +8,7 @@ const headers = <>
     <th start>recruitmentCandidate</th>
     <th>recruitmentVacancy</th>
     <th>recruitmentApplicationDate</th>
-    <th>recruitmentState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
