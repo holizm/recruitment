@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "आवेदन की तारीख",
+        "applications": "आवेदन",
+        "candidate": "उम्मीदवार",
+        "closingDate": "अंतिम तारीख",
+        "openedDate": "आरंभ तारीख",
+        "openingsCount": "रिक्त पदों की संख्या",
+        "recruitment": "भर्ती",
+        "vacancies": "रिक्तियाँ",
+        "vacancy": "रिक्ति"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "応募日",
+        "applications": "応募",
+        "candidate": "候補者",
+        "closingDate": "募集終了日",
+        "openedDate": "募集開始日",
+        "openingsCount": "募集人数",
+        "recruitment": "採用",
+        "vacancies": "求人",
+        "vacancy": "求人"
+    }
+}

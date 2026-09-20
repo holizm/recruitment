@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Датум пријаве",
+        "applications": "Пријаве",
+        "candidate": "Кандидат",
+        "closingDate": "Датум затварања",
+        "openedDate": "Датум отварања",
+        "openingsCount": "Број слободних места",
+        "recruitment": "Запошљавање",
+        "vacancies": "Слободна радна места",
+        "vacancy": "Слободно радно место"
+    }
+}

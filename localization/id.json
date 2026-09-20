@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Tanggal lamaran",
+        "applications": "Lamaran",
+        "candidate": "Kandidat",
+        "closingDate": "Tanggal penutupan",
+        "openedDate": "Tanggal dibuka",
+        "openingsCount": "Jumlah posisi tersedia",
+        "recruitment": "Rekrutmen",
+        "vacancies": "Lowongan",
+        "vacancy": "Lowongan"
+    }
+}

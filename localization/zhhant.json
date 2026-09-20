@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "申請日期",
+        "applications": "求職申請",
+        "candidate": "候選人",
+        "closingDate": "截止日期",
+        "openedDate": "開放日期",
+        "openingsCount": "招聘人數",
+        "recruitment": "招聘",
+        "vacancies": "職位空缺",
+        "vacancy": "職位空缺"
+    }
+}

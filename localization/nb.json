@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Søknadsdato",
+        "applications": "Søknader",
+        "candidate": "Kandidat",
+        "closingDate": "Søknadsfrist",
+        "openedDate": "Publiseringsdato",
+        "openingsCount": "Antall ledige stillinger",
+        "recruitment": "Rekruttering",
+        "vacancies": "Ledige stillinger",
+        "vacancy": "Ledig stilling"
+    }
+}

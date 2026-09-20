@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Sollicitatiedatum",
+        "applications": "Sollicitaties",
+        "candidate": "Kandidaat",
+        "closingDate": "Sluitingsdatum",
+        "openedDate": "Openingsdatum",
+        "openingsCount": "Aantal vacatures",
+        "recruitment": "Werving",
+        "vacancies": "Vacatures",
+        "vacancy": "Vacature"
+    }
+}

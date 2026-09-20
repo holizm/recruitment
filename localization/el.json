@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Ημερομηνία αίτησης",
+        "applications": "Αιτήσεις",
+        "candidate": "Υποψήφιος",
+        "closingDate": "Ημερομηνία λήξης",
+        "openedDate": "Ημερομηνία έναρξης",
+        "openingsCount": "Αριθμός διαθέσιμων θέσεων",
+        "recruitment": "Προσλήψεις",
+        "vacancies": "Κενές θέσεις",
+        "vacancy": "Κενή θέση"
+    }
+}

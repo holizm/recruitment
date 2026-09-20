@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "လျှောက်ထားသည့်ရက်",
+        "applications": "အလုပ်လျှောက်လွှာများ",
+        "candidate": "လျှောက်ထားသူ",
+        "closingDate": "ပိတ်ရက်",
+        "openedDate": "ဖွင့်ရက်",
+        "openingsCount": "ခေါ်ယူမည့်ဦးရေ",
+        "recruitment": "ဝန်ထမ်းခန့်အပ်ရေး",
+        "vacancies": "အလုပ်အကိုင်လစ်လပ်များ",
+        "vacancy": "အလုပ်အကိုင်လစ်လပ်"
+    }
+}

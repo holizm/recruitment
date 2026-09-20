@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "আবেদনের তারিখ",
+        "applications": "চাকরির আবেদনসমূহ",
+        "candidate": "প্রার্থী",
+        "closingDate": "শেষ তারিখ",
+        "openedDate": "খোলার তারিখ",
+        "openingsCount": "শূন্যপদের সংখ্যা",
+        "recruitment": "নিয়োগ",
+        "vacancies": "শূন্যপদসমূহ",
+        "vacancy": "শূন্যপদ"
+    }
+}

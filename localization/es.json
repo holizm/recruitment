@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Fecha de solicitud",
+        "applications": "Solicitudes",
+        "candidate": "Candidato",
+        "closingDate": "Fecha de cierre",
+        "openedDate": "Fecha de apertura",
+        "openingsCount": "Número de vacantes",
+        "recruitment": "Contratación",
+        "vacancies": "Vacantes",
+        "vacancy": "Vacante"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "የማመልከቻ ቀን",
+        "applications": "ማመልከቻዎች",
+        "candidate": "እጩ",
+        "closingDate": "የመዝጊያ ቀን",
+        "openedDate": "የመክፈቻ ቀን",
+        "openingsCount": "የስራ ክፍት ቦታዎች ብዛት",
+        "recruitment": "ቅጥር",
+        "vacancies": "ክፍት የስራ ቦታዎች",
+        "vacancy": "ክፍት የስራ ቦታ"
+    }
+}

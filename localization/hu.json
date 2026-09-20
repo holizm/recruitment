@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Jelentkezés dátuma",
+        "applications": "Jelentkezések",
+        "candidate": "Jelölt",
+        "closingDate": "Jelentkezési határidő",
+        "openedDate": "Meghirdetés dátuma",
+        "openingsCount": "Nyitott pozíciók száma",
+        "recruitment": "Toborzás",
+        "vacancies": "Álláslehetőségek",
+        "vacancy": "Álláslehetőség"
+    }
+}

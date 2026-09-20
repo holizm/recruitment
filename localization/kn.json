@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "ಅರ್ಜಿ ದಿನಾಂಕ",
+        "applications": "ಅರ್ಜಿಗಳು",
+        "candidate": "ಅಭ್ಯರ್ಥಿ",
+        "closingDate": "ಅಂತಿಮ ದಿನಾಂಕ",
+        "openedDate": "ಆರಂಭದ ದಿನಾಂಕ",
+        "openingsCount": "ಖಾಲಿ ಹುದ್ದೆಗಳ ಸಂಖ್ಯೆ",
+        "recruitment": "ನೇಮಕಾತಿ",
+        "vacancies": "ಖಾಲಿ ಹುದ್ದೆಗಳು",
+        "vacancy": "ಖಾಲಿ ಹುದ್ದೆ"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "അപേക്ഷാ തീയതി",
+        "applications": "അപേക്ഷകൾ",
+        "candidate": "ഉദ്യോഗാർഥി",
+        "closingDate": "അവസാന തീയതി",
+        "openedDate": "തുടക്ക തീയതി",
+        "openingsCount": "ഒഴിവുകളുടെ എണ്ണം",
+        "recruitment": "നിയമനം",
+        "vacancies": "ഒഴിവുകൾ",
+        "vacancy": "ഒഴിവ്"
+    }
+}

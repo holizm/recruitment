@@ -1,0 +1,13 @@
+{
+    "common": {
+        "applicationDate": "Petsa ng aplikasyon",
+        "applications": "Mga aplikasyon",
+        "candidate": "Kandidato",
+        "closingDate": "Petsa ng pagsasara",
+        "openedDate": "Petsa ng pagbubukas",
+        "openingsCount": "Bilang ng bakanteng posisyon",
+        "recruitment": "Pagre-recruit",
+        "vacancies": "Mga bakanteng posisyon",
+        "vacancy": "Bakanteng posisyon"
+    }
+}
