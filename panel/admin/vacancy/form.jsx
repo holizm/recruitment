@@ -24,7 +24,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='recruitmentOpenedDate'
+        placeholder='coreOpenedDate'
         property='openedDate'
         required
     />
