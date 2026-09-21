@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "申请日期",
-        "applications": "求职申请",
         "candidate": "候选人",
+        "candidateApplication": "候选人申请",
+        "candidateApplications": "求职申请",
+        "candidates": "候选人",
         "closingDate": "截止日期",
+        "hiring": "录用",
+        "hirings": "录用",
+        "interview": "面试",
+        "interviews": "面试",
+        "jobOffer": "工作邀约",
+        "jobOffers": "工作邀约",
         "openingsCount": "招聘人数",
         "recruitment": "招聘",
         "vacancies": "职位空缺",

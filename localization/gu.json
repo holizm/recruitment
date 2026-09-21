@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "અરજીની તારીખ",
-        "applications": "અરજીઓ",
         "candidate": "ઉમેદવાર",
+        "candidateApplication": "ઉમેદવાર અરજી",
+        "candidateApplications": "અરજીઓ",
+        "candidates": "ઉમેદવારો",
         "closingDate": "અંતિમ તારીખ",
+        "hiring": "ભરતી",
+        "hirings": "ભરતીઓ",
+        "interview": "ઇન્ટરવ્યૂ",
+        "interviews": "ઇન્ટરવ્યૂઓ",
+        "jobOffer": "નોકરીની ઓફર",
+        "jobOffers": "નોકરીની ઓફરો",
         "openingsCount": "ખાલી જગ્યાઓની સંખ્યા",
         "recruitment": "ભરતી",
         "vacancies": "ખાલી જગ્યાઓ",

@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Petsa ng aplikasyon",
-        "applications": "Mga aplikasyon",
         "candidate": "Kandidato",
+        "candidateApplication": "Aplikasyon ng kandidato",
+        "candidateApplications": "Mga aplikasyon",
+        "candidates": "Mga kandidato",
         "closingDate": "Petsa ng pagsasara",
+        "hiring": "Pagkuha",
+        "hirings": "Mga pagkuha",
+        "interview": "Panayam",
+        "interviews": "Mga panayam",
+        "jobOffer": "Alok na trabaho",
+        "jobOffers": "Mga alok na trabaho",
         "openingsCount": "Bilang ng bakanteng posisyon",
         "recruitment": "Pagre-recruit",
         "vacancies": "Mga bakanteng posisyon",

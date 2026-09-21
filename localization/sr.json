@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Датум пријаве",
-        "applications": "Пријаве",
         "candidate": "Кандидат",
+        "candidateApplication": "Пријава кандидата",
+        "candidateApplications": "Пријаве",
+        "candidates": "Кандидати",
         "closingDate": "Датум затварања",
+        "hiring": "Запошљавање",
+        "hirings": "Запошљавања",
+        "interview": "Интервју",
+        "interviews": "Интервјуи",
+        "jobOffer": "Понуда за посао",
+        "jobOffers": "Понуде за посао",
         "openingsCount": "Број слободних места",
         "recruitment": "Запошљавање",
         "vacancies": "Слободна радна места",

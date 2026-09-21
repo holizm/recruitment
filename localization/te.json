@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "దరఖాస్తు తేదీ",
-        "applications": "దరఖాస్తులు",
         "candidate": "అభ్యర్థి",
+        "candidateApplication": "అభ్యర్థి దరఖాస్తు",
+        "candidateApplications": "దరఖాస్తులు",
+        "candidates": "అభ్యర్థులు",
         "closingDate": "ముగింపు తేదీ",
+        "hiring": "నియామకం",
+        "hirings": "నియామకాలు",
+        "interview": "ఇంటర్వ్యూ",
+        "interviews": "ఇంటర్వ్యూలు",
+        "jobOffer": "ఉద్యోగ ఆఫర్",
+        "jobOffers": "ఉద్యోగ ఆఫర్లు",
         "openingsCount": "ఖాళీల సంఖ్య",
         "recruitment": "నియామకం",
         "vacancies": "ఉద్యోగ ఖాళీలు",

@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "လျှောက်ထားသည့်ရက်",
-        "applications": "အလုပ်လျှောက်လွှာများ",
         "candidate": "လျှောက်ထားသူ",
+        "candidateApplication": "ကိုယ်စားလှယ်လောင်း လျှောက်လွှာ",
+        "candidateApplications": "အလုပ်လျှောက်လွှာများ",
+        "candidates": "ကိုယ်စားလှယ်လောင်းများ",
         "closingDate": "ပိတ်ရက်",
+        "hiring": "ခန့်အပ်မှု",
+        "hirings": "ခန့်အပ်မှုများ",
+        "interview": "အင်တာဗျူး",
+        "interviews": "အင်တာဗျူးများ",
+        "jobOffer": "အလုပ်ကမ်းလှမ်းချက်",
+        "jobOffers": "အလုပ်ကမ်းလှမ်းချက်များ",
         "openingsCount": "ခေါ်ယူမည့်ဦးရေ",
         "recruitment": "ဝန်ထမ်းခန့်အပ်ရေး",
         "vacancies": "အလုပ်အကိုင်လစ်လပ်များ",

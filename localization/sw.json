@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Tarehe ya kutuma ombi",
-        "applications": "Maombi ya kazi",
         "candidate": "Mgombea",
+        "candidateApplication": "Ombi la mgombea",
+        "candidateApplications": "Maombi ya kazi",
+        "candidates": "Wagombea",
         "closingDate": "Tarehe ya kufunga",
+        "hiring": "Uajiri",
+        "hirings": "Uajiri",
+        "interview": "Mahojiano",
+        "interviews": "Mahojiano",
+        "jobOffer": "Ofa ya kazi",
+        "jobOffers": "Ofa za kazi",
         "openingsCount": "Idadi ya nafasi",
         "recruitment": "Uajiri",
         "vacancies": "Nafasi za kazi",

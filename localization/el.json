@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Ημερομηνία αίτησης",
-        "applications": "Αιτήσεις",
         "candidate": "Υποψήφιος",
+        "candidateApplication": "Αίτηση υποψηφίου",
+        "candidateApplications": "Αιτήσεις",
+        "candidates": "Υποψήφιοι",
         "closingDate": "Ημερομηνία λήξης",
+        "hiring": "Πρόσληψη",
+        "hirings": "Προσλήψεις",
+        "interview": "Συνέντευξη",
+        "interviews": "Συνεντεύξεις",
+        "jobOffer": "Προσφορά εργασίας",
+        "jobOffers": "Προσφορές εργασίας",
         "openingsCount": "Αριθμός διαθέσιμων θέσεων",
         "recruitment": "Προσλήψεις",
         "vacancies": "Κενές θέσεις",

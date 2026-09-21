@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Hakemuspäivä",
-        "applications": "Hakemukset",
         "candidate": "Hakija",
+        "candidateApplication": "Ehdokashakemus",
+        "candidateApplications": "Hakemukset",
+        "candidates": "Ehdokkaat",
         "closingDate": "Hakuajan päättymispäivä",
+        "hiring": "Palkkaus",
+        "hirings": "Palkkaukset",
+        "interview": "Haastattelu",
+        "interviews": "Haastattelut",
+        "jobOffer": "Työtarjous",
+        "jobOffers": "Työtarjoukset",
         "openingsCount": "Avoimien paikkojen määrä",
         "recruitment": "Rekrytointi",
         "vacancies": "Avoimet työpaikat",

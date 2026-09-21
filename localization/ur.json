@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "درخواست کی تاریخ",
-        "applications": "درخواستیں",
         "candidate": "امیدوار",
+        "candidateApplication": "امیدوار کی درخواست",
+        "candidateApplications": "درخواستیں",
+        "candidates": "امیدوار",
         "closingDate": "اختتامی تاریخ",
+        "hiring": "بھرتی",
+        "hirings": "بھرتیاں",
+        "interview": "انٹرویو",
+        "interviews": "انٹرویوز",
+        "jobOffer": "ملازمت کی پیشکش",
+        "jobOffers": "ملازمت کی پیشکشیں",
         "openingsCount": "خالی آسامیوں کی تعداد",
         "recruitment": "بھرتی",
         "vacancies": "خالی آسامیاں",

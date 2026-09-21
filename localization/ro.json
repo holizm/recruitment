@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Data candidaturii",
-        "applications": "Candidaturi",
         "candidate": "Candidat",
+        "candidateApplication": "Cerere de candidat",
+        "candidateApplications": "Candidaturi",
+        "candidates": "Candidați",
         "closingDate": "Data închiderii",
+        "hiring": "Angajare",
+        "hirings": "Angajări",
+        "interview": "Interviu",
+        "interviews": "Interviuri",
+        "jobOffer": "Ofertă de muncă",
+        "jobOffers": "Oferte de muncă",
         "openingsCount": "Numărul posturilor disponibile",
         "recruitment": "Recrutare",
         "vacancies": "Posturi disponibile",

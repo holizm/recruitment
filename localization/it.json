@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Data di candidatura",
-        "applications": "Candidature",
         "candidate": "Candidato",
+        "candidateApplication": "Candidatura",
+        "candidateApplications": "Candidature",
+        "candidates": "Candidati",
         "closingDate": "Data di chiusura",
+        "hiring": "Assunzione",
+        "hirings": "Assunzioni",
+        "interview": "Colloquio",
+        "interviews": "Colloqui",
+        "jobOffer": "Offerta di lavoro",
+        "jobOffers": "Offerte di lavoro",
         "openingsCount": "Numero di posizioni aperte",
         "recruitment": "Selezione del personale",
         "vacancies": "Posizioni aperte",

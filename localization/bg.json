@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Дата на кандидатстване",
-        "applications": "Кандидатури",
         "candidate": "Кандидат",
+        "candidateApplication": "Кандидатура",
+        "candidateApplications": "Кандидатури",
+        "candidates": "Кандидати",
         "closingDate": "Краен срок",
+        "hiring": "Наемане",
+        "hirings": "Назначения",
+        "interview": "Интервю",
+        "interviews": "Интервюта",
+        "jobOffer": "Предложение за работа",
+        "jobOffers": "Предложения за работа",
         "openingsCount": "Брой свободни позиции",
         "recruitment": "Подбор на персонал",
         "vacancies": "Свободни позиции",

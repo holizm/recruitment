@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "விண்ணப்ப தேதி",
-        "applications": "விண்ணப்பங்கள்",
         "candidate": "விண்ணப்பதாரர்",
+        "candidateApplication": "வேட்பாளர் விண்ணப்பம்",
+        "candidateApplications": "விண்ணப்பங்கள்",
+        "candidates": "வேட்பாளர்கள்",
         "closingDate": "முடிவு தேதி",
+        "hiring": "பணியமர்த்தல்",
+        "hirings": "பணியமர்த்தல்கள்",
+        "interview": "நேர்காணல்",
+        "interviews": "நேர்காணல்கள்",
+        "jobOffer": "வேலை வாய்ப்பு",
+        "jobOffers": "வேலை வாய்ப்புகள்",
         "openingsCount": "காலியிடங்களின் எண்ணிக்கை",
         "recruitment": "ஆட்சேர்ப்பு",
         "vacancies": "காலியிடங்கள்",

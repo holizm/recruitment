@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Ọjọ́ ìbéèrè iṣẹ́",
-        "applications": "Àwọn ìbéèrè iṣẹ́",
         "candidate": "Olùdíje",
+        "candidateApplication": "Ìbẹ̀wẹ̀ olùdíje",
+        "candidateApplications": "Àwọn ìbéèrè iṣẹ́",
+        "candidates": "Àwọn olùdíje",
         "closingDate": "Ọjọ́ ìparí",
+        "hiring": "Ìgbàṣẹ́",
+        "hirings": "Àwọn ìgbàṣẹ́",
+        "interview": "Ìfọ̀rọ̀wánilẹ́nuwò",
+        "interviews": "Àwọn ìfọ̀rọ̀wánilẹ́nuwò",
+        "jobOffer": "Ìfilọ́lẹ̀ iṣẹ́",
+        "jobOffers": "Àwọn ìfilọ́lẹ̀ iṣẹ́",
         "openingsCount": "Iye àwọn àyè iṣẹ́",
         "recruitment": "Ìgbaniṣiṣẹ́",
         "vacancies": "Àwọn àyè iṣẹ́",

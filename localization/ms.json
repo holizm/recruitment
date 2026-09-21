@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Tarikh permohonan",
-        "applications": "Permohonan",
         "candidate": "Calon",
+        "candidateApplication": "Permohonan calon",
+        "candidateApplications": "Permohonan",
+        "candidates": "Calon",
         "closingDate": "Tarikh tutup",
+        "hiring": "Pengambilan",
+        "hirings": "Pengambilan",
+        "interview": "Temu duga",
+        "interviews": "Temu duga",
+        "jobOffer": "Tawaran kerja",
+        "jobOffers": "Tawaran kerja",
         "openingsCount": "Bilangan kekosongan",
         "recruitment": "Pengambilan pekerja",
         "vacancies": "Jawatan kosong",

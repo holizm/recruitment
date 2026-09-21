@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "ਅਰਜ਼ੀ ਦੀ ਮਿਤੀ",
-        "applications": "ਅਰਜ਼ੀਆਂ",
         "candidate": "ਉਮੀਦਵਾਰ",
+        "candidateApplication": "ਉਮੀਦਵਾਰ ਅਰਜ਼ੀ",
+        "candidateApplications": "ਅਰਜ਼ੀਆਂ",
+        "candidates": "ਉਮੀਦਵਾਰ",
         "closingDate": "ਆਖਰੀ ਮਿਤੀ",
+        "hiring": "ਭਰਤੀ",
+        "hirings": "ਭਰਤੀਆਂ",
+        "interview": "ਇੰਟਰਵਿਊ",
+        "interviews": "ਇੰਟਰਵਿਊ",
+        "jobOffer": "ਨੌਕਰੀ ਦੀ ਪੇਸ਼ਕਸ਼",
+        "jobOffers": "ਨੌਕਰੀ ਦੀਆਂ ਪੇਸ਼ਕਸ਼ਾਂ",
         "openingsCount": "ਖਾਲੀ ਅਸਾਮੀਆਂ ਦੀ ਗਿਣਤੀ",
         "recruitment": "ਭਰਤੀ",
         "vacancies": "ਖਾਲੀ ਅਸਾਮੀਆਂ",

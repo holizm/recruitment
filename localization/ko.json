@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "지원일",
-        "applications": "지원서",
         "candidate": "지원자",
+        "candidateApplication": "후보자 지원서",
+        "candidateApplications": "지원서",
+        "candidates": "후보자",
         "closingDate": "마감일",
+        "hiring": "채용",
+        "hirings": "채용",
+        "interview": "면접",
+        "interviews": "면접",
+        "jobOffer": "채용 제안",
+        "jobOffers": "채용 제안",
         "openingsCount": "채용 인원",
         "recruitment": "채용",
         "vacancies": "채용 공고",

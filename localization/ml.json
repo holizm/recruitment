@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "അപേക്ഷാ തീയതി",
-        "applications": "അപേക്ഷകൾ",
         "candidate": "ഉദ്യോഗാർഥി",
+        "candidateApplication": "സ്ഥാനാർഥി അപേക്ഷ",
+        "candidateApplications": "അപേക്ഷകൾ",
+        "candidates": "സ്ഥാനാർഥികൾ",
         "closingDate": "അവസാന തീയതി",
+        "hiring": "നിയമനം",
+        "hirings": "നിയമനങ്ങൾ",
+        "interview": "അഭിമുഖം",
+        "interviews": "അഭിമുഖങ്ങൾ",
+        "jobOffer": "ജോലി വാഗ്ദാനം",
+        "jobOffers": "ജോലി വാഗ്ദാനങ്ങൾ",
         "openingsCount": "ഒഴിവുകളുടെ എണ്ണം",
         "recruitment": "നിയമനം",
         "vacancies": "ഒഴിവുകൾ",

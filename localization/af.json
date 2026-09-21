@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Aansoekdatum",
-        "applications": "Aansoeke",
         "candidate": "Kandidaat",
+        "candidateApplication": "Kandidaataansoek",
+        "candidateApplications": "Aansoeke",
+        "candidates": "Kandidate",
         "closingDate": "Sluitingsdatum",
+        "hiring": "Aanstelling",
+        "hirings": "Aanstellings",
+        "interview": "Onderhoud",
+        "interviews": "Onderhoude",
+        "jobOffer": "Werksaanbod",
+        "jobOffers": "Werksaanbiedinge",
         "openingsCount": "Aantal vakatures",
         "recruitment": "Werwing",
         "vacancies": "Vakatures",

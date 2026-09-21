@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "تاریخ درخواست",
-        "applications": "درخواست‌ها",
         "candidate": "متقاضی",
+        "candidateApplication": "درخواست نامزد",
+        "candidateApplications": "درخواست‌ها",
+        "candidates": "نامزدها",
         "closingDate": "مهلت درخواست",
+        "hiring": "استخدام",
+        "hirings": "استخدام‌ها",
+        "interview": "مصاحبه",
+        "interviews": "مصاحبه‌ها",
+        "jobOffer": "پیشنهاد شغلی",
+        "jobOffers": "پیشنهادهای شغلی",
         "openingsCount": "تعداد فرصت‌ها",
         "recruitment": "استخدام",
         "vacancies": "فرصت‌های شغلی",

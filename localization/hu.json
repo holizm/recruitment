@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Jelentkezés dátuma",
-        "applications": "Jelentkezések",
         "candidate": "Jelölt",
+        "candidateApplication": "Jelentkezés",
+        "candidateApplications": "Jelentkezések",
+        "candidates": "Jelöltek",
         "closingDate": "Jelentkezési határidő",
+        "hiring": "Felvétel",
+        "hirings": "Felvételek",
+        "interview": "Interjú",
+        "interviews": "Interjúk",
+        "jobOffer": "Állásajánlat",
+        "jobOffers": "Állásajánlatok",
         "openingsCount": "Nyitott pozíciók száma",
         "recruitment": "Toborzás",
         "vacancies": "Álláslehetőségek",

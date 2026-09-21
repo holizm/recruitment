@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Ansökningsdatum",
-        "applications": "Ansökningar",
         "candidate": "Kandidat",
+        "candidateApplication": "Kandidatansökan",
+        "candidateApplications": "Ansökningar",
+        "candidates": "Kandidater",
         "closingDate": "Sista ansökningsdag",
+        "hiring": "Anställning",
+        "hirings": "Anställningar",
+        "interview": "Intervju",
+        "interviews": "Intervjuer",
+        "jobOffer": "Jobberbjudande",
+        "jobOffers": "Jobberbjudanden",
         "openingsCount": "Antal lediga tjänster",
         "recruitment": "Rekrytering",
         "vacancies": "Lediga tjänster",

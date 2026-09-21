@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Ranar neman aiki",
-        "applications": "Neman aiki",
         "candidate": "Ɗan takara",
+        "candidateApplication": "Aikace-aikacen ɗan takara",
+        "candidateApplications": "Neman aiki",
+        "candidates": "’Yan takara",
         "closingDate": "Ranar rufewa",
+        "hiring": "Ɗaukar aiki",
+        "hirings": "Ɗaukar ma’aikata",
+        "interview": "Hira",
+        "interviews": "Hirarraki",
+        "jobOffer": "Tayin aiki",
+        "jobOffers": "Tayin ayyuka",
         "openingsCount": "Yawan guraben aiki",
         "recruitment": "Daukar ma'aikata",
         "vacancies": "Guraben aiki",

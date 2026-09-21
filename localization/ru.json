@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Дата подачи заявки",
-        "applications": "Заявки",
         "candidate": "Кандидат",
+        "candidateApplication": "Заявка кандидата",
+        "candidateApplications": "Заявки",
+        "candidates": "Кандидаты",
         "closingDate": "Дата закрытия",
+        "hiring": "Найм",
+        "hirings": "Наймы",
+        "interview": "Собеседование",
+        "interviews": "Собеседования",
+        "jobOffer": "Предложение о работе",
+        "jobOffers": "Предложения о работе",
         "openingsCount": "Количество вакансий",
         "recruitment": "Подбор персонала",
         "vacancies": "Вакансии",

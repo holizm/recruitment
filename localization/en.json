@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Application date",
-        "applications": "Applications",
         "candidate": "Candidate",
+        "candidateApplication": "Candidate application",
+        "candidateApplications": "Applications",
+        "candidates": "Candidates",
         "closingDate": "Closing date",
+        "hiring": "Hiring",
+        "hirings": "Hirings",
+        "interview": "Interview",
+        "interviews": "Interviews",
+        "jobOffer": "Job offer",
+        "jobOffers": "Job offers",
         "openingsCount": "Number of openings",
         "recruitment": "Recruitment",
         "vacancies": "Vacancies",

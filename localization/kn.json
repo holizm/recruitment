@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "ಅರ್ಜಿ ದಿನಾಂಕ",
-        "applications": "ಅರ್ಜಿಗಳು",
         "candidate": "ಅಭ್ಯರ್ಥಿ",
+        "candidateApplication": "ಅಭ್ಯರ್ಥಿ ಅರ್ಜಿ",
+        "candidateApplications": "ಅರ್ಜಿಗಳು",
+        "candidates": "ಅಭ್ಯರ್ಥಿಗಳು",
         "closingDate": "ಅಂತಿಮ ದಿನಾಂಕ",
+        "hiring": "ನೇಮಕಾತಿ",
+        "hirings": "ನೇಮಕಾತಿಗಳು",
+        "interview": "ಸಂದರ್ಶನ",
+        "interviews": "ಸಂದರ್ಶನಗಳು",
+        "jobOffer": "ಉದ್ಯೋಗ ಪ್ರಸ್ತಾಪ",
+        "jobOffers": "ಉದ್ಯೋಗ ಪ್ರಸ್ತಾಪಗಳು",
         "openingsCount": "ಖಾಲಿ ಹುದ್ದೆಗಳ ಸಂಖ್ಯೆ",
         "recruitment": "ನೇಮಕಾತಿ",
         "vacancies": "ಖಾಲಿ ಹುದ್ದೆಗಳು",

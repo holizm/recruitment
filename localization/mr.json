@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "अर्जाची तारीख",
-        "applications": "अर्ज",
         "candidate": "उमेदवार",
+        "candidateApplication": "उमेदवार अर्ज",
+        "candidateApplications": "अर्ज",
+        "candidates": "उमेदवार",
         "closingDate": "अंतिम तारीख",
+        "hiring": "भरती",
+        "hirings": "भरती",
+        "interview": "मुलाखत",
+        "interviews": "मुलाखती",
+        "jobOffer": "नोकरीची ऑफर",
+        "jobOffers": "नोकरीच्या ऑफर",
         "openingsCount": "रिक्त पदांची संख्या",
         "recruitment": "भरती",
         "vacancies": "रिक्त पदे",

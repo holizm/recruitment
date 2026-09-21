@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Başvuru tarihi",
-        "applications": "Başvurular",
         "candidate": "Aday",
+        "candidateApplication": "Aday başvurusu",
+        "candidateApplications": "Başvurular",
+        "candidates": "Adaylar",
         "closingDate": "Kapanış tarihi",
+        "hiring": "İşe alım",
+        "hirings": "İşe alımlar",
+        "interview": "Mülakat",
+        "interviews": "Mülakatlar",
+        "jobOffer": "İş teklifi",
+        "jobOffers": "İş teklifleri",
         "openingsCount": "Açık pozisyon sayısı",
         "recruitment": "İşe alım",
         "vacancies": "Açık pozisyonlar",

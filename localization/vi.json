@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Ngày ứng tuyển",
-        "applications": "Hồ sơ ứng tuyển",
         "candidate": "Ứng viên",
+        "candidateApplication": "Đơn ứng tuyển",
+        "candidateApplications": "Hồ sơ ứng tuyển",
+        "candidates": "Ứng viên",
         "closingDate": "Ngày kết thúc",
+        "hiring": "Tuyển dụng",
+        "hirings": "Các đợt tuyển dụng",
+        "interview": "Phỏng vấn",
+        "interviews": "Các cuộc phỏng vấn",
+        "jobOffer": "Đề nghị việc làm",
+        "jobOffers": "Các đề nghị việc làm",
         "openingsCount": "Số lượng vị trí tuyển",
         "recruitment": "Tuyển dụng",
         "vacancies": "Vị trí tuyển dụng",

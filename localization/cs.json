@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Datum podání žádosti",
-        "applications": "Žádosti",
         "candidate": "Uchazeč",
+        "candidateApplication": "Přihláška kandidáta",
+        "candidateApplications": "Žádosti",
+        "candidates": "Kandidáti",
         "closingDate": "Datum uzávěrky",
+        "hiring": "Přijetí",
+        "hirings": "Přijetí",
+        "interview": "Pohovor",
+        "interviews": "Pohovory",
+        "jobOffer": "Pracovní nabídka",
+        "jobOffers": "Pracovní nabídky",
         "openingsCount": "Počet volných míst",
         "recruitment": "Nábor",
         "vacancies": "Volná místa",

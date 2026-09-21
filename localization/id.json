@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "Tanggal lamaran",
-        "applications": "Lamaran",
         "candidate": "Kandidat",
+        "candidateApplication": "Lamaran kandidat",
+        "candidateApplications": "Lamaran",
+        "candidates": "Kandidat",
         "closingDate": "Tanggal penutupan",
+        "hiring": "Perekrutan",
+        "hirings": "Perekrutan",
+        "interview": "Wawancara",
+        "interviews": "Wawancara",
+        "jobOffer": "Tawaran kerja",
+        "jobOffers": "Tawaran kerja",
         "openingsCount": "Jumlah posisi tersedia",
         "recruitment": "Rekrutmen",
         "vacancies": "Lowongan",

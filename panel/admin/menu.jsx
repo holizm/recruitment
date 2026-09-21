@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/recruitment/candidateApplication/list',
-                title: 'recruitmentApplications',
+                title: 'recruitmentCandidateApplications',
             },
         ],
         icon: 'personAdd',

@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "আবেদনের তারিখ",
-        "applications": "চাকরির আবেদনসমূহ",
         "candidate": "প্রার্থী",
+        "candidateApplication": "প্রার্থীর আবেদন",
+        "candidateApplications": "চাকরির আবেদনসমূহ",
+        "candidates": "প্রার্থীরা",
         "closingDate": "শেষ তারিখ",
+        "hiring": "নিয়োগ",
+        "hirings": "নিয়োগসমূহ",
+        "interview": "সাক্ষাৎকার",
+        "interviews": "সাক্ষাৎকারসমূহ",
+        "jobOffer": "চাকরির প্রস্তাব",
+        "jobOffers": "চাকরির প্রস্তাবসমূহ",
         "openingsCount": "শূন্যপদের সংখ্যা",
         "recruitment": "নিয়োগ",
         "vacancies": "শূন্যপদসমূহ",

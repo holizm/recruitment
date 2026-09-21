@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "आवेदन की तारीख",
-        "applications": "आवेदन",
         "candidate": "उम्मीदवार",
+        "candidateApplication": "उम्मीदवार आवेदन",
+        "candidateApplications": "आवेदन",
+        "candidates": "उम्मीदवार",
         "closingDate": "अंतिम तारीख",
+        "hiring": "भर्ती",
+        "hirings": "भर्तियाँ",
+        "interview": "साक्षात्कार",
+        "interviews": "साक्षात्कार",
+        "jobOffer": "नौकरी प्रस्ताव",
+        "jobOffers": "नौकरी प्रस्ताव",
         "openingsCount": "रिक्त पदों की संख्या",
         "recruitment": "भर्ती",
         "vacancies": "रिक्तियाँ",

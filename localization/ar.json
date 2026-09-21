@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "تاريخ التقديم",
-        "applications": "طلبات التوظيف",
         "candidate": "المرشح",
+        "candidateApplication": "طلب مرشح",
+        "candidateApplications": "طلبات التوظيف",
+        "candidates": "مرشحون",
         "closingDate": "تاريخ الإغلاق",
+        "hiring": "توظيف",
+        "hirings": "عمليات توظيف",
+        "interview": "مقابلة",
+        "interviews": "مقابلات",
+        "jobOffer": "عرض عمل",
+        "jobOffers": "عروض عمل",
         "openingsCount": "عدد الشواغر",
         "recruitment": "التوظيف",
         "vacancies": "الوظائف الشاغرة",

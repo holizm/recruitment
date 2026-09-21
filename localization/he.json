@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "תאריך הגשת מועמדות",
-        "applications": "מועמדויות",
         "candidate": "מועמד",
+        "candidateApplication": "בקשת מועמד",
+        "candidateApplications": "מועמדויות",
+        "candidates": "מועמדים",
         "closingDate": "תאריך סגירה",
+        "hiring": "גיוס",
+        "hirings": "גיוסים",
+        "interview": "ראיון",
+        "interviews": "ראיונות",
+        "jobOffer": "הצעת עבודה",
+        "jobOffers": "הצעות עבודה",
         "openingsCount": "מספר משרות פתוחות",
         "recruitment": "גיוס",
         "vacancies": "משרות פתוחות",

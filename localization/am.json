@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "የማመልከቻ ቀን",
-        "applications": "ማመልከቻዎች",
         "candidate": "እጩ",
+        "candidateApplication": "የእጩ ማመልከቻ",
+        "candidateApplications": "ማመልከቻዎች",
+        "candidates": "እጩዎች",
         "closingDate": "የመዝጊያ ቀን",
+        "hiring": "ቅጥር",
+        "hirings": "ቅጥሮች",
+        "interview": "ቃለ መጠይቅ",
+        "interviews": "ቃለ መጠይቆች",
+        "jobOffer": "የሥራ አቅርቦት",
+        "jobOffers": "የሥራ አቅርቦቶች",
         "openingsCount": "የስራ ክፍት ቦታዎች ብዛት",
         "recruitment": "ቅጥር",
         "vacancies": "ክፍት የስራ ቦታዎች",

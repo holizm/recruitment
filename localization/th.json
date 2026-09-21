@@ -1,9 +1,17 @@
 {
     "common": {
         "applicationDate": "วันที่สมัคร",
-        "applications": "ใบสมัคร",
         "candidate": "ผู้สมัคร",
+        "candidateApplication": "ใบสมัครของผู้สมัคร",
+        "candidateApplications": "ใบสมัคร",
+        "candidates": "ผู้สมัคร",
         "closingDate": "วันปิดรับสมัคร",
+        "hiring": "การจ้างงาน",
+        "hirings": "การจ้างงาน",
+        "interview": "การสัมภาษณ์",
+        "interviews": "การสัมภาษณ์",
+        "jobOffer": "ข้อเสนองาน",
+        "jobOffers": "ข้อเสนองาน",
         "openingsCount": "จำนวนตำแหน่งที่เปิดรับ",
         "recruitment": "การสรรหาบุคลากร",
         "vacancies": "ตำแหน่งงานว่าง",
