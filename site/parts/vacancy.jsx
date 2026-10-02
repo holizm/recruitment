@@ -1,5 +1,6 @@
-export default ({ vacancy }) => <article class='vacancy'>
+import { Item } from 'core'
+export default ({ vacancy }) => <Item class='vacancy'>
     <h2 class='title'>{vacancy.title}</h2>
     <time class='closingDate'>{vacancy.closingDate}</time>
     <div class='description'>{vacancy.description}</div>
-</article>
+</Item>
