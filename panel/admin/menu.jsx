@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/recruitment/vacancy/list',
-                title: 'recruitmentVacancies',
+                title: 'vacancies',
             },
             {
                 path: '/recruitment/candidateApplication/list',
-                title: 'recruitmentCandidateApplications',
+                title: 'candidateApplications',
             },
         ],
         icon: 'personAdd',
         path: '/recruitment',
-        title: 'recruitmentRecruitment',
+        title: 'recruitment',
     },
 ]

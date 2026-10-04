@@ -7,22 +7,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='recruitmentVacancy'
+        placeholder='vacancy'
         property='vacancy'
         required
     />
     <Text
-        placeholder='recruitmentCandidate'
+        placeholder='candidate'
         property='candidate'
         required
     />
     <DateTime
-        placeholder='recruitmentApplicationDate'
+        placeholder='applicationDate'
         property='applicationDate'
         required
     />
     <LongText
-        placeholder='recruitmentDescription'
+        placeholder='description'
         property='description'
     />
 </>

@@ -1,6 +1,6 @@
 export default <>
-    <th start>recruitmentCandidate</th>
-    <th>recruitmentVacancy</th>
-    <th>recruitmentApplicationDate</th>
-    <th>stateMachinesState</th>
+    <th start>candidate</th>
+    <th>vacancy</th>
+    <th>applicationDate</th>
+    <th>state</th>
 </>

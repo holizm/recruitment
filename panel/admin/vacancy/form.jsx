@@ -10,30 +10,30 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='recruitmentCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='recruitmentDepartment'
+        placeholder='department'
         property='department'
     />
     <Numeric
-        placeholder='recruitmentOpeningsCount'
+        placeholder='openingsCount'
         property='openingsCount'
         required
     />
     <DateTime
-        placeholder='coreOpenedDate'
+        placeholder='openedDate'
         property='openedDate'
         required
     />
     <DateTime
-        placeholder='recruitmentClosingDate'
+        placeholder='closingDate'
         property='closingDate'
     />
     <LongText
-        placeholder='recruitmentDescription'
+        placeholder='description'
         property='description'
     />
 </>

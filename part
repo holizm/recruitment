@@ -9,6 +9,8 @@ vacancy
     state
     description optional
     unique code
+    uses
+        stateMachines
 candidate
     person
     source optional
@@ -23,6 +25,8 @@ candidateApplication
     currency optional
     description optional
     unique vacancy candidate
+    uses
+        stateMachines
 interview
     candidateApplication
     interviewDate
