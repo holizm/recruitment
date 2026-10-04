@@ -10,32 +10,20 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <Text
-        placeholder='department'
-        property='department'
-    />
+    <Text department />
     <Numeric
-        placeholder='openingsCount'
-        property='openingsCount'
+        openingsCount
         required
     />
     <DateTime
-        placeholder='openedDate'
-        property='openedDate'
+        openedDate
         required
     />
-    <DateTime
-        placeholder='closingDate'
-        property='closingDate'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <DateTime closingDate />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

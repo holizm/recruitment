@@ -7,24 +7,18 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='vacancy'
-        property='vacancy'
         required
+        vacancy
     />
     <Text
-        placeholder='candidate'
-        property='candidate'
+        candidate
         required
     />
     <DateTime
-        placeholder='applicationDate'
-        property='applicationDate'
+        applicationDate
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
