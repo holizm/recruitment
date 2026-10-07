@@ -27,7 +27,7 @@ candidateApplication
     unique vacancy candidate
     uses
         stateMachines
-interview
+interview searchable
     candidateApplication
     interviewDate
     interviewer
