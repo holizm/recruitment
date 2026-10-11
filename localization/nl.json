@@ -2,7 +2,7 @@
     "common": {
         "applicationDate": "Sollicitatiedatum",
         "candidate": "Kandidaat",
-        "candidateApplication": "Kandidatenaanvraag",
+        "candidateApplication": "Sollicitatie van kandidaat",
         "candidateApplications": "Sollicitaties",
         "candidates": "Kandidaten",
         "closingDate": "Sluitingsdatum",
