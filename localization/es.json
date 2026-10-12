@@ -1,6 +1,5 @@
 {
     "common": {
-        "applicationDate": "Fecha de solicitud",
         "candidate": "Candidato",
         "candidateApplication": "Solicitud del candidato",
         "candidateApplications": "Solicitudes",
